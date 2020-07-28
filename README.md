@@ -1,6 +1,6 @@
-Weeks Lab common procedures
+Chase Weidmann Protocols (Major Lab)
 ================================================================================
-Use the [table of contents](#table-of-contents) to navigate this repo of common lab procedures.
+Use the [table of contents](#table-of-contents) to navigate this repo of lab procedures.
 
 Printer-friendly Protocols
 --------------------------------------------------------------------------------
@@ -15,8 +15,6 @@ This method does not work in Firefox.
 Table of Contents
 --------------------------------------------------------------------------------
 * [Procedure template](procedure-template.md)
-* [MiSeq sequencing](miseq.md)
-* [Sequence Guide](sequence-guide.md)
 * [Enzyme reactions](#enzyme-reactions)
 * [Purification](#purification)
 * [Assays](#assays)
