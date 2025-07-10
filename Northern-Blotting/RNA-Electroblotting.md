@@ -30,10 +30,9 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
-
 **Part 1: Preparing Agarose gel for electroblotting (~1.5 hours)**  
 
-**1.** Rinse gel 3 times for 10 minutes in (MilliQ) water (dispose of liquid formaldehyde waste). <br/> Image gel to ensure even loading before assembling Northern transfer.
+**1.** Rinse gel 3 times for 10 minutes in (MilliQ) water (dispose of liquid formaldehyde waste). If the gel was destained due to GelRed/GelGreen staining, these washes are unnecessary. <br/> Image gel to ensure even loading before assembling Northern transfer.
 
 **2.** Soak gel in 5 volumes of 0.05 N NaOH for 20 minutes. <br/> _Note: This fragments RNA, allowing RNAs > 2000 nt to transfer better._
 
@@ -47,11 +46,13 @@ Protocol:
 **5.** Rinse 2 sponges with distilled water and shake dry. Assemble transfer sandwich in plastic chamber: <br/> bubble-guard > cathode (-) > bubble-guard > sponge
 
 **6.** Fill the chamber half-way with 1X TBE and continue with sandwich assembly: <br/> 4x whatman > gel > nylon membrane > 4x whatman <br/>
+_The two whatmans on each side that are closest to the gel can be cut to closer fit the agarose gel to prevent bubbles_
 _Note: Roll out air bubbles twice, once after placing the gel and once after the paper_
 
-**7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > bubble-guard > anode (+)
+**7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > bubble-guard(if it can fit) > anode (+) <br/>
+_Note: the gel will shrink as the transfer progress. If the sandwich is not very tight, can add additional sponges._
 
-**8.** Transfer at 12 V for 1.5 hours in 1X TBE running buffer.  
+**8.** Transfer at 12 V for 1.5 hours in 1X TBE running buffer in the cold room.  
 
 
 **Part 3: Preparation of membrane for Northern blotting (~10 minutes)** 

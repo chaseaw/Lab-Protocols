@@ -48,7 +48,9 @@ Protocol:
 
 **6.** Wash once in 1X SSC + 0.1 % SDS for 15 minutes at up to 65 °C (close chamber again).
 
-**7.** Before imaging, rinse the blot for 5 minutes in 1X PBS. <br/> _Note: Blots can be stored between whatman paper in a dessicator long term._
+**7.** Wash once in 0.1X SSC + 0.1% SDS for 15 minutes at up to 65°C
+
+**8.** Before imaging, rinse the blot for 5 minutes in 1X PBS. <br/> _Note: Blots can be stored between whatman paper in a dessicator long term._
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
