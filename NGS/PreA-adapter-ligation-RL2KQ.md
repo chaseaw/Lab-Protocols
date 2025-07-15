@@ -53,7 +53,7 @@ Protocol:
 
 **5.** Add 1 µL of Recj to the reaction and incubate at 37 °C for 1 hour.
 
-**6.** Chelate Magnesium in the buffer by quenching reaction with 22 µL (1 reaction volume) of 25 mM EDTA.
+**6.** Chelate Magnesium in the buffer by quenching reaction with 52 µL (1 reaction volume) of 25 mM EDTA.
 
 **7.** Dilute reaction to 100 µL total with water and purify products by column or SPRI beads.
 
